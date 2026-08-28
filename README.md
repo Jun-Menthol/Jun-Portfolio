@@ -42,7 +42,7 @@
 
 - **RPA 开发**：影刀 RPA
 - **AI 应用开发**：LangChain、LangGraph
-- **大模型部署**：Ollama 本地部署（已掌握）
+- **大模型部署**：Ollama 本地部署（已掌握）、Dify（应用搭建）
 - **编程语言**：Python
 
 
