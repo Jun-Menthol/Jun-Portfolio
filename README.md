@@ -13,6 +13,7 @@
 | 项目 | 技术栈 | 状态 | 链接 |
 |------|--------|------|------|
 | 小红书笔记自动发布机器人 | 影刀 RPA · Try-Catch · 模拟点击 · 日志记录 | ✅ 已完成 | [查看详情](https://github.com/Jun-Menthol/xiaohongshu-publisher-rpa) |
+| 跨系统数据同步机器人 | 影刀RPA · 数据校验 · 异常处理 · 统计报告 | ✅ 已完成 | [查看详情](https://github.com/Jun-Menthol/cross-system-data-sync-rpa) |
 
 ---
 
