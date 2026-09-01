@@ -21,6 +21,7 @@
 
 | 项目 | 技术栈 | 状态 | 链接 |
 |------|--------|------|------|
+| AI 安全测试 - Prompt注入专项 | Python · Security Testing · LLM | ✅ 已完成 | [查看详情](https://github.com/Jun-Menthol/ai-security-test) |
 | AI 自动化测试框架 | Python · Requests · 自动化测试 | ✅ 已完成 | [查看详情](https://github.com/Jun-Menthol/ai-test-demo) |
 | LangChain 简历优化助手 | LangChain · FastAPI · DeepSeek API | ✅ 已封装为可调用的 API 服务 | [查看详情](https://github.com/Jun-Menthol/langchain-resume-optimizer) |
 > **项目亮点**：基于 FastAPI 封装了 LangChain 简历优化功能，提供 `/optimize` 接口，并自动生成 Swagger 交互文档，支持通过 API 调用返回结构化优化建议。
